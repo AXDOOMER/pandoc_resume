@@ -30,7 +30,7 @@ $endif$
 
 %\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[11pt, helvetica]
+\setupbodyfont[10pt, helvetica]
 
 \setupwhitespace[medium]
 
@@ -40,6 +40,7 @@ $endif$
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
                           before={\leavevmode\blackrule\hspace}]
+
 \setuphead[subsubsection][style=\bf]
 
 $if(number-sections)$
@@ -78,6 +79,10 @@ $endif$
 $for(header-includes)$
 $header-includes$
 $endfor$
+
+\setupblank[none]
+
+%\showgrid
 
 \starttext
 $if(title)$

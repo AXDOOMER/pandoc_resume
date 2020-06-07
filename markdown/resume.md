@@ -1,100 +1,92 @@
-Johnny Coder
-============
-
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Alexandre-Xavier Labonté-Lamoureux
+==================================
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-Present
+:   **Bachelor of Software Engineering**, École de Technologie Supérieure (ÉTS), Montréal
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2013-2016
+:   **College degree in Computer Science Technology**, Collège Lionel-Groulx, Sainte-Thérèse
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Skills
+------
+Languages
+:   C, C++, C#, Java, Python, PHP, Bash, SQL, x86-64 Assembly
 
-    *Minor: Awesomeology*
+Technologies
+:   Windows, GNU/Linux, FreeRTOS, Android, ASP.Net MVC, Arduino
+
+Software
+:   GDB, IDA Pro, Ghidra, Radare2, x64dbg, OllyDbg, Burp Suite, Wireshark
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+Summer 2019
+:   **Junior malware researcher** (internship), ESET Canada Research, Montréal
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Followed a two months long training on malware analysis
+* Studied malware samples as part of ongoing investigations, documented my findings
+* Conducted the research on the malware Varenyky and wrote a [blog](https://www.welivesecurity.com/2019/08/08/varenyky-spambot-campaigns-france/) about it
 
-* First item
+Autumn 2017
+:   **Malware analyst** (internship), Public Safety Canada - CCIRC, Ottawa
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Carried out dynamic and static analysis of malware
+* Found IOCs and wrote reports
+* Analyzed network traffic and improved a network simulator written in Perl
+* Automated the analysis of the Trickbot malware (98% of analysis time saved)
 
-**That Other Job You Had**
+Winter 2016
+:   **Programmer** (internship), Zensol Automation Inc., Ville Saint-Laurent
 
-Also with a short description.
+* Maintained the company’s internal management software written in C#
+* Created my own tools to improve my development speed
 
-Technical Experience
---------------------
+Student involvement
+-------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+2016-Present
+:   **Member, Projet leader of [JardinIoT](https://github.com/ClubCedille/jardiniot) and Treasurer**, CEDILLE
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    Work on DevOps projects and open source embedded software
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+2018-Present
+:   **Member and Vice-President**, DCI ÉTS - IT competitions delegation of ÉTS
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    Participate to competitions, create CTF challenges and give workshops
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Awards and achievements
+-----------------------
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+2020
+:   1st place at NorthSec CTF 2020 (team "HubrETS Hackin”")
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+2019
+:   4th place at Hackfest CTF Classic (made 55% of my team’s final score)
 
-[ref]: https://github.com/githubuser/superlongprojectname
+2019
+:   1st place at We Are Cyber Students' launch CTF
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+2019
+:   2nd place at JDIS Games (AI competition)
 
-* Human Languages:
+2019
+:   3rd place at iHack CTF
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+2019
+:   9th place at NorthSec 2019 (team "Hacker de pirate")
 
-* Random tidbit
+2019
+:   1st place at HackQC 2019
 
-* Other sort of impressive-sounding thing you did
+2018
+:   Won an OCTAS for JardinIoT and a 1000$ scholarship
 
 ----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> Alexandre-Xavier Labonté-Lamoureux • <alexandrexavier@live.ca>\
+www.github.com/axdoomer • www.linkedin.com/in/axll
